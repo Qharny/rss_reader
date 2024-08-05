@@ -21,15 +21,15 @@ A command-line RSS feed reader application built with Dart. This application all
 1. Clone this repository:
 git clone https://github.com/Qharny/rss_reader
 cd rss_reader
-Copy
+
 1. Install dependencies:
 dart pub get
-Copy
+
 ## Usage
 
 To run the application:
 dart run bin/rss_reader.dart
-Copy
+
 Follow the on-screen prompts to interact with the RSS Feed Reader:
 
 1. Add Feed: Subscribe to a new RSS or Atom feed
@@ -59,7 +59,7 @@ rss_reader/
 │
 ├── pubspec.yaml
 └── README.md
-Copy
+
 ## Dependencies
 
 - http: ^0.13.5
